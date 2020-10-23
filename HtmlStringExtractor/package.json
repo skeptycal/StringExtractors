@@ -8,6 +8,6 @@
   "dependencies": {
     "htmlparser2": "3.7.2",
     "glob": "4.0.0",
-    "request": "2.36.0"
+    "request": "2.88.2"
   }
 }
